@@ -1,4 +1,6 @@
-# Open Access Journal on Engineering Applications, ISSN: 3105-7004
+# Open Access Journal on Engineering Applications
+# ISSN: 3105-7004
+# https://oajea.hafizlab.com
 
 The Open Access Journal on Engineering Applications (OAJEA) is an international, peer-reviewed, open access journal dedicated to publishing high-quality research and practical advancements across all areas of engineering and technology. It serves as a platform for academics, researchers, professionals, and industry practitioners to share knowledge, innovations, and insights into real-world engineering problems and solutions.
 
