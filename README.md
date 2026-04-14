@@ -10,6 +10,18 @@ The journal is designed for researchers, engineers, technologists, educators, gr
 
 OAJEA follows the gold open access model, ensuring that all published articles are freely accessible to readers worldwide without subscription or access fees. This enhances the visibility, usage, and impact of research contributions.
 
+# Abstracting Indexing
+1. Google Scholar
+2. semantic scholar
+3. SciLit
+4. WorldCat
+5. ResearchGate
+6. j-gate
+7. openAIRE
+8. OpenAlex
+9. Dimensions
+10. HOLLIS (Harvard Library)
+
 # Published Article
 1.	Real Time English Alphabet Recognition Through Hand Gestures on Air Using Deep Learning and OpenCV, https://doi.org/10.64886/oajea.0102.004
 3.	ESP32 Microcontroller: A Review of Architecture, Communication Protocols, Applications and Research Challenges, https://doi.org/10.64886/oajea.0102.003	
@@ -20,3 +32,5 @@ OAJEA follows the gold open access model, ensuring that all published articles a
 8.	Combinatorial Test Suit Generation techniques to Identifying Research Gap: A Systematic Review, https://doi.org/10.64886/oajea.0101.003		
 9.	A Smart IoT-Based Environmental Monitoring System for Clinical Labs: Focus on Temperature, Humidity and Air Quality, https://doi.org/10.64886/oajea.0101.002	
 10.	A Comprehensive Review of M2M Communication Protocols, https://doi.org/10.64886/oajea.0101.001
+
+    
