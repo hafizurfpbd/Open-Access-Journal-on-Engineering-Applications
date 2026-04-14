@@ -7,3 +7,14 @@ The journal operates under a no-fee policy for authors. All Article Processing C
 The journal is designed for researchers, engineers, technologists, educators, graduate students and decision-makers in academia and industry who seek to stay informed about the latest trends and applications in engineering.
 
 OAJEA follows the gold open access model, ensuring that all published articles are freely accessible to readers worldwide without subscription or access fees. This enhances the visibility, usage, and impact of research contributions.
+
+# Published Article
+1.	Real Time English Alphabet Recognition Through Hand Gestures on Air Using Deep Learning and OpenCV		
+2.	ESP32 Microcontroller: A Review of Architecture, Communication Protocols, Applications and Research Challenges		
+3.	Design and Implementation Concept of an AI-Powered Scholarly Discovery Platform for Emerging Research Ecosystems		
+4.	IoT Devices: Classification, Features, and Trends in Modern IoT Systems		
+5.	Challenges, Strategies, and Transparency of Digital Transactions in Building a Cashless Society: Bangladesh Perspective		
+6.	A Comprehensive Review of Edge Computing: A Perspective of IoT		
+7.	Combinatorial Test Suit Generation techniques to Identifying Research Gap: A Systematic Review		
+8.	A Smart IoT-Based Environmental Monitoring System for Clinical Labs: Focus on Temperature, Humidity and Air Quality		
+9.	A Comprehensive Review of M2M Communication Protocols
