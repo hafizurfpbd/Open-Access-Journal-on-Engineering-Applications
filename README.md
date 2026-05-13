@@ -23,14 +23,20 @@ OAJEA follows the gold open access model, ensuring that all published articles a
 10. HOLLIS (Harvard Library)
 
 # Published Article
-1.	Real Time English Alphabet Recognition Through Hand Gestures on Air Using Deep Learning and OpenCV, https://doi.org/10.64886/oajea.0102.004
-3.	ESP32 Microcontroller: A Review of Architecture, Communication Protocols, Applications and Research Challenges, https://doi.org/10.64886/oajea.0102.003	
-4.	Design and Implementation Concept of an AI-Powered Scholarly Discovery Platform for Emerging Research Ecosystems, https://doi.org/10.64886/oajea.0102.002		
-5.	IoT Devices: Classification, Features, and Trends in Modern IoT Systems, https://doi.org/10.64886/oajea.0102.001
-6.	Challenges, Strategies, and Transparency of Digital Transactions in Building a Cashless Society: Bangladesh Perspective, https://doi.org/10.64886/oajea.0101.005		
-7.	A Comprehensive Review of Edge Computing: A Perspective of IoT, https://doi.org/10.64886/oajea.0101.004		
-8.	Combinatorial Test Suit Generation techniques to Identifying Research Gap: A Systematic Review, https://doi.org/10.64886/oajea.0101.003		
-9.	A Smart IoT-Based Environmental Monitoring System for Clinical Labs: Focus on Temperature, Humidity and Air Quality, https://doi.org/10.64886/oajea.0101.002	
-10.	A Comprehensive Review of M2M Communication Protocols, https://doi.org/10.64886/oajea.0101.001
 
+## Volume-01 & Issue-02
+---------------------- 
+1.	A Comprehensive Review of M2M Communication Protocols, https://doi.org/10.64886/oajea.0101.001
+2.	A Smart IoT-Based Environmental Monitoring System for Clinical Labs: Focus on Temperature, Humidity and Air Quality, https://doi.org/10.64886/oajea.0101.002	
+3.	Combinatorial Test Suit Generation techniques to Identifying Research Gap: A Systematic Review, https://doi.org/10.64886/oajea.0101.003		
+4.	A Comprehensive Review of Edge Computing: A Perspective of IoT, https://doi.org/10.64886/oajea.0101.004		
+5.	Challenges, Strategies, and Transparency of Digital Transactions in Building a Cashless Society: Bangladesh Perspective, https://doi.org/10.64886/oajea.0101.005
+## Volume-01 & Issue-02
+---------------------- 
+6.	IoT Devices: Classification, Features, and Trends in Modern IoT Systems, https://doi.org/10.64886/oajea.0102.001
+7.	Design and Implementation Concept of an AI-Powered Scholarly Discovery Platform for Emerging Research Ecosystems, https://doi.org/10.64886/oajea.0102.002		
+8.	ESP32 Microcontroller: A Review of Architecture, Communication Protocols, Applications and Research Challenges, https://doi.org/10.64886/oajea.0102.003	
+9.	Real Time English Alphabet Recognition Through Hand Gestures on Air Using Deep Learning and OpenCV, https://doi.org/10.64886/oajea.0102.004
+10. EHREP: A Preliminary Design Framework for a FAIR-Compliant Federated Protocol for Electronic Health Record Exchange, https://doi.org/10.64886/oajea.0102.005v1
+11. IoT-Enabled Speed and Accident Detection Platform Using Deep Learning and Multi-Object Tracking, https://doi.org/10.64886/oajea.0102.006
     
